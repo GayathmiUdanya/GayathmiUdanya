@@ -1,9 +1,9 @@
 ## Hi, I'm Gayathmi👋
 
-👩‍🎓 Computer Science student at IIT (University of Westminster).<br>
-🔥 Student Developer @GitHub Education. <br>
-🎆 Currently learning frontend.<br>
-🎀 Interested in AI and ML.<br>
+🎓 CS Undergraduate at IIT (University of Westminster). <br>
+🌟 GitHub Education Pack Member. <br>
+💻 Currently building skills in Frontend Development. <br>
+🤖 Exploring interests in AI & ML. <br>
 
 
 
