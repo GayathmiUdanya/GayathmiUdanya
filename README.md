@@ -1,8 +1,10 @@
 ## Hi, I'm Gayathmi👋
 
 👩‍🎓 Computer Science student at IIT (University of Westminster).<br>
+🔥 Student Developer @GitHub Education. <br>
 🎆 Currently learning frontend.<br>
-🎀 Intrested in AI and ML.<br>
+🎀 Interested in AI and ML.<br>
+
 
 
 # 💻 Tech Stack:
