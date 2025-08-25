@@ -1,7 +1,6 @@
 ## Hi, I'm Gayathmi👋
 
 🎓 CS Undergraduate at IIT (University of Westminster). <br>
-🌟 GitHub Education Member. <br>
 💻 Currently building skills in Frontend Development. <br>
 🤖 Exploring interests in AI & ML. <br>
 
